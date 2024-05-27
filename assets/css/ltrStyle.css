@@ -1,0 +1,131 @@
+body.ltr {
+  direction: ltr !important;
+  text-align: left !important;
+  text-transform: capitalize !important;
+}
+body.ltr .drop-down-content {
+  right: 0px;
+  left: unset;
+}
+body.ltr .header-middle {
+  direction: ltr;
+}
+body.ltr .abs-header {
+  left: 0;
+  right: unset;
+}
+body.ltr .search-btn-main {
+  right: 15px;
+  left: unset;
+}
+body.ltr .p-dialog .p-dialog-header-icons {
+  left: -5px;
+  right: unset;
+}
+body.ltr .v-locale--is-ltr {
+  direction: ltr !important;
+}
+body.ltr .tel-input-me input {
+  padding-right: 12px;
+  padding-left: 120px;
+}
+body.ltr .labelImg {
+  right: -14px;
+  left: unset;
+}
+body.ltr .p-dropdown-filter.p-inputtext + .p-icon {
+  left: 87%;
+  right: unset;
+}
+body.ltr .abs-num {
+  left: 5px;
+  right: unset;
+}
+body.ltr .book-value {
+  text-align: left;
+}
+body.ltr a.show-more-link:hover {
+  color: var(--main) !important;
+  transform: translateX(6px);
+}
+body.ltr .hasOffer .card-top-car .abs-num {
+  right: 10px;
+  left: unset;
+}
+body.ltr .hasOffer .abs-num-loc {
+  left: 10px;
+  right: unset;
+}
+body.ltr .abs-member {
+  left: 0;
+  right: unset;
+}
+body.ltr .my-drop-now {
+  left: -30px;
+  right: unset;
+}
+body.ltr .info-box-profile::after {
+  right: 40px;
+  left: unset;
+}
+body.ltr a.flex-nuxt-link:hover,
+body.ltr a.flex-nuxt-link.router-link-exact-active {
+  transform: translateX(3px);
+}
+body.ltr .requiredInputLabel::after {
+  right: -14px;
+  left: unset;
+}
+body.ltr .p-dropdown-filter.p-inputtext + .p-icon {
+  left: 88%;
+  right: unset;
+}
+body.ltr .p-dropdown-panel .p-dropdown-items .p-dropdown-item {
+  text-align: left;
+}
+body.ltr .abs-mark-main {
+  left: 5px;
+  right: unset;
+}
+body.ltr .abs-mark-up {
+  right: 20px;
+  left: unset;
+}
+body.ltr .abs-lef-none {
+  right: 15px;
+  left: unset;
+}
+body.ltr .section-img-device {
+  right: 15%;
+  left: unset;
+}
+@media (max-width: 1024px) {
+  body.ltr .links {
+    left: 0px;
+    right: unset;
+    transform: translateX(-100%);
+  }
+  body.ltr .nav-layer {
+    left: 280px;
+    right: unset;
+    transform: translateX(550%);
+  }
+  body.ltr .slideto {
+    transform: translatex(0) !important;
+  }
+  body.ltr .header-middle {
+    left: 0px;
+    right: unset;
+    transform: translateX(-100%);
+  }
+  body.ltr .x-mark-main {
+    right: 10px;
+    left: unset;
+  }
+}
+@media (max-width: 767px) {
+  body.ltr .my-drop-now {
+    left: 0px;
+    right: unset;
+  }
+}

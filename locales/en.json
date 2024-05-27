@@ -1,0 +1,31 @@
+{
+  "Home": {
+    "home": "Home",
+    "orders": "my orders",
+    "contact": "contact us",
+    "loginpro": "Register As Provider",
+    "loginpromob": "provider",
+    "signin": "Sign In",
+    "terms": "Terms and policy",
+    "classic": "classic",
+    "showall": "Show All",
+    "prodetails": "product details",
+    "quiklink": "Quick links",
+    "cart": "Shopping cart",
+    "forher": "products for him",
+    "wallet": "wallet",
+    "settings": "settings",
+    "Complaints": "Complaints and suggestions",
+    "footerright": "All rights reserved to Dima",
+    "footerleft": "Design and programming by AAIT",
+    "no_available_options": "No data available",
+    "forhim": "products for her"
+  },
+  "auth": {
+    "no_available_options": "no data available",
+    "have": "Don't have an account?",
+    "havemain": "have an account?",
+    "sign": "Create an account",
+    "loginm": "Login"
+  }
+}
